@@ -6,8 +6,8 @@ This repository presents the **basic notions** that involve the concept of Gener
 
 Definition and training some models, such as:
 
-* [GAN with MNIST]()
-* [DCGAN with MNIST]()
+* [GAN with MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/01_GAN_MNIST.ipynb)
+* [DCGAN with MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/02_DCGAN_MNIST.ipynb)
 
 ## Results
 
@@ -34,6 +34,3 @@ A DCGANs implementation using the transposed convolution technique and the [Kera
 
 * Loss at every epoch for 100 epochs.
 ![GAN with MNIST](img/lossdcgan.png)
-
-
-# generative_adversarial_networks_101
