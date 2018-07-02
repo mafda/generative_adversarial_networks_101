@@ -13,7 +13,7 @@ Definition and training some models, such as:
 ## Results
 
 ### Training GANs with Keras and TensorFlow
-A standard GANs implementations using fully connected layers and the [Keras](https://keras.io/) library.
+A GANs implementation using fully connected layers and the [Keras](https://keras.io/) library.
 
 | Epoch 00 | Epoch 100 | Loss |
 |----------|-----------|------|
@@ -22,11 +22,14 @@ A standard GANs implementations using fully connected layers and the [Keras](htt
 ### Training DCGANs with Keras and TensorFlow
 A DCGANs implementation using the transposed convolution technique and the [Keras](https://keras.io/) library.
 
-* Generated MNIST images at epoch 00.
-![GAN with MNIST](img/00_dcgan.png)
+| Epoch 00 | Epoch 100 | Loss |
+|----------|-----------|------|
+| ![GAN with MNIST](img/00_dcgan.png) | ![GAN with MNIST](img/100_dcgan.png)| ![GAN with MNIST](img/loss_dcgan.png)|
 
-* Generated MNIST images at epoch 100.
-![GAN with MNIST](img/100_dcgan.png)
+### Training CGANs with Keras and TensorFlow
+A CGANs implementation using fully connected layers, embedding layers, and the [Keras](https://keras.io/) library.
 
-* Loss at every epoch for 100 epochs.
-![GAN with MNIST](img/loss_dcgan.png)
+| Epoch 00 | Epoch 100 | Loss |
+|----------|-----------|------|
+| ![CGAN with MNIST](img/00_cgan.png) | ![CGAN with MNIST](img/100_cgan.png)| ![CGAN with MNIST](img/loss_cgan.png)|
+
