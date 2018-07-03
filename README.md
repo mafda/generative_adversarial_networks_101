@@ -13,28 +13,31 @@ Definition and training some models, such as:
 
 ## Results
 
-### Training GANs with Keras and TensorFlow
-A GANs implementation using fully connected layers and the [Keras](https://keras.io/) library.
+Training models with Keras and TensorFlow
+
+### Generative Adversarial Networks - GANs
+A GANs implementation using fully connected layers.
 
 | Epoch 00 | Epoch 100 | Loss |
 |----------|-----------|------|
 | ![GAN with MNIST](img/00_gan.png) | ![GAN with MNIST](img/100_gan.png)| ![GAN with MNIST](img/loss_gan.png)|
 
-### Training DCGANs with Keras and TensorFlow
-A DCGANs implementation using the transposed convolution technique and the [Keras](https://keras.io/) library.
+### Deep Convolutional Generative Adversarial Networks - DCGANs
+A DCGANs implementation using the transposed convolution technique.
 
 | Epoch 00 | Epoch 100 | Loss |
 |----------|-----------|------|
 | ![GAN with MNIST](img/00_dcgan.png) | ![GAN with MNIST](img/100_dcgan.png)| ![GAN with MNIST](img/loss_dcgan.png)|
 
-### Training CGANs with Keras and TensorFlow
-A CGANs implementation using fully connected layers, embedding layers, and the [Keras](https://keras.io/) library.
+### Conditional Generative Adversarial Nets - CGANs
+A CGANs implementation using fully connected layers and embedding layers.
 
 | Epoch 00 | Epoch 100 | Loss |
 |----------|-----------|------|
 | ![CGAN with MNIST](img/00_cgan.png) | ![CGAN with MNIST](img/100_cgan.png)| ![CGAN with MNIST](img/loss_cgan.png)|
 
-### Training CCGANs with Keras and TensorFlow
+### Context-Conditional Generative Adversarial Networks - CCGANs
+A CCGANs implementation using U-Net and convolutional neural network.
 
 | Epoch 00 | Epoch 100 | Loss |
 |----------|-----------|------|
