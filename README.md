@@ -14,14 +14,21 @@ GANs are composed of two models, represented by neural networks:
 
 ## Models
 
-Definition and training some models, such as:
+Definition and training some models with MNIST and CIFAR-10 datasets.
 
-* [GAN with MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/01_GAN_MNIST.ipynb)
-* [DCGAN with MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/02_DCGAN_MNIST.ipynb)
-* [CGAN with MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/03_CGAN_MNIST.ipynb)
-* [CCGAN with MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/04_CCGAN_MNIST.ipynb)
+### MNIST
 
-## Results - MINIST
+* [GAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/01_GAN_MNIST.ipynb)
+* [DCGAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/02_DCGAN_MNIST.ipynb)
+* [CGAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/03_CGAN_MNIST.ipynb)
+* [CCGAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/04_CCGAN_MNIST.ipynb)
+
+### CIFAR-10
+
+* [DCGAN - CIFAR-10](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/02_DCGAN_CIFAR10.ipynb)
+
+
+## Results - MNIST
 
 Training models with Keras and TensorFlow
 
@@ -59,4 +66,5 @@ A CCGANs implementation using U-Net and convolutional neural network. [Code.](ht
 
 * [Generative Adversarial Networks or GANs](https://arxiv.org/abs/1406.2661)
 * [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
+* [The CIFAR-10 dataset](https://www.cs.toronto.edu/%7Ekriz/cifar.html)
 
