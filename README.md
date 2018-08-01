@@ -16,44 +16,46 @@ GANs are composed of two models, represented by neural networks:
 
 Definition and training some models with MNIST and CIFAR-10 datasets.
 
-### MNIST
+### MNIST dataset
 
 * [GAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/01_GAN_MNIST.ipynb)
 * [DCGAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/02_DCGAN_MNIST.ipynb)
 * [CGAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/03_CGAN_MNIST.ipynb)
 * [CCGAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/04_CCGAN_MNIST.ipynb)
 
-### CIFAR-10
+### CIFAR-10 dataset
 
-* [DCGAN - CIFAR-10](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/02_DCGAN_CIFAR10.ipynb)
+* [DCGAN - CIFAR10](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/02_DCGAN_CIFAR10.ipynb)
 
 
-## Results - MNIST
+## Results
 
 Training models with Keras and TensorFlow
 
-### Generative Adversarial Networks - GANs
+### MNIST dataset
+
+#### Generative Adversarial Networks - GANs
 A GANs implementation using fully connected layers. [Code.](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/01_GAN_MNIST.ipynb)
 
 | Epoch 00 | Epoch 100 | Loss |
 |----------|-----------|------|
 | ![GAN with MNIST](img/00_gan.png) | ![GAN with MNIST](img/100_gan.png)| ![GAN with MNIST](img/loss_gan.png)|
 
-### Deep Convolutional Generative Adversarial Networks - DCGANs
+#### Deep Convolutional Generative Adversarial Networks - DCGANs
 A DCGANs implementation using the transposed convolution technique. [Code.](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/02_DCGAN_MNIST.ipynb)
 
 | Epoch 00 | Epoch 100 | Loss |
 |----------|-----------|------|
 | ![GAN with MNIST](img/00_dcgan.png) | ![GAN with MNIST](img/100_dcgan.png)| ![GAN with MNIST](img/loss_dcgan.png)|
 
-### Conditional Generative Adversarial Nets - CGANs
+#### Conditional Generative Adversarial Nets - CGANs
 A CGANs implementation using fully connected layers and embedding layers. [Code.](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/03_CGAN_MNIST.ipynb)
 
 | Epoch 00 | Epoch 100 | Loss |
 |----------|-----------|------|
 | ![CGAN with MNIST](img/00_cgan.png) | ![CGAN with MNIST](img/100_cgan.png)| ![CGAN with MNIST](img/loss_cgan.png)|
 
-### Context-Conditional Generative Adversarial Networks - CCGANs
+#### Context-Conditional Generative Adversarial Networks - CCGANs
 A CCGANs implementation using U-Net and convolutional neural network. [Code.](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/04_CCGAN_MNIST.ipynb)
 
 | Epoch 00 | Epoch 100 | Loss |
