@@ -62,6 +62,15 @@ A CCGANs implementation using U-Net and convolutional neural network. [Code.](ht
 |----------|-----------|------|
 | ![CGAN with MNIST](img/00_ccgan.png) | ![CGAN with MNIST](img/100_ccgan.png)| ![CGAN with MNIST](img/loss_ccgan.png)|
 
+### CIFAR-10 dataset
+
+#### Deep Convolutional Generative Adversarial Networks - DCGANs
+A DCGANs implementation using the transposed convolution technique. [Code.](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/02_DCGAN_CIFAR10.ipynb)
+
+| Epoch 00 | Epoch 100 | Loss |
+|----------|-----------|------|
+| ![DCGAN with CIFAR-10](img/00_dcgan_cifar.png) | ![DCGAN with CIFAR-10](img/100_dcgan_cifar.png)| ![DCGAN with CIFAR-10](img/loss_dcgan_cifar.png)|
+
 ---
 
 ## References
