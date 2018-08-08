@@ -26,6 +26,7 @@ Definition and training some models with MNIST and CIFAR-10 datasets.
 ### CIFAR-10 dataset
 
 * [DCGAN - CIFAR10](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/02_DCGAN_CIFAR10.ipynb)
+* [CGAN - CIFAR10](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/03_CGAN_CIFAR10.ipynb)
 
 
 ## Results
@@ -70,6 +71,13 @@ A DCGANs implementation using the transposed convolution technique. [Code.](http
 | Epoch 00 | Epoch 100 | Loss |
 |----------|-----------|------|
 | ![DCGAN with CIFAR-10](img/00_dcgan_cifar.png) | ![DCGAN with CIFAR-10](img/100_dcgan_cifar.png)| ![DCGAN with CIFAR-10](img/loss_dcgan_cifar.png)|
+
+#### Conditional Generative Adversarial Networks - CGANs
+A CGANs implementation using the transposed convolution and convolution neural network, and concatenate layers. [Code.](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/03_CGAN_CIFAR10.ipynb)
+
+| Epoch 00 | Epoch 100 | Loss |
+|----------|-----------|------|
+| ![CGAN with CIFAR-10](img/00_cgan_cifar.png) | ![CGAN with CIFAR-10](img/100_cgan_cifar.png)| ![CGAN with CIFAR-10](img/loss_cgan_cifar.png)|
 
 ---
 
