@@ -95,4 +95,6 @@ A CGANs implementation using the transposed convolution and convolution neural n
     
 * Tips and tricks
     * [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
+    * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
+    * [Adversarial Nets Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)
 
