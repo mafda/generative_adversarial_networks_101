@@ -9,7 +9,7 @@ Some implementations in **Keras** of Generative Adversarial Networks - GANs mode
 Generative Adversarial Networks: [Code](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/01_GAN_MNIST.ipynb).
 
 <p align="center">
-    <img src="img/100_gan.png.png" width="424"\>
+    <img src="../../img/100_gan.png.png" width="424"\>
 </p>
 
 ### DCGANs
@@ -17,7 +17,7 @@ Generative Adversarial Networks: [Code](https://github.com/mafda/generative_adve
 Deep Convolutional Generative Adversarial Networks: [Code](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/02_DCGAN_MNIST.ipynb).
 
 <p align="center">
-    <img src="img/100_dcgan.png.png" width="424"\>
+    <img src="../../img/100_dcgan.png.png" width="424"\>
 </p>
 
 ### CGANs
@@ -25,7 +25,7 @@ Deep Convolutional Generative Adversarial Networks: [Code](https://github.com/ma
 Conditional Generative Adversarial Nets: [Code](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/03_CGAN_MNIST.ipynb).
 
 <p align="center">
-    <img src="img/100_cgan.png.png" width="424"\>
+    <img src="../../img/100_cgan.png.png" width="424"\>
 </p>
 
 ### CCGANs
@@ -33,7 +33,7 @@ Conditional Generative Adversarial Nets: [Code](https://github.com/mafda/generat
 Context-Conditional Generative Adversarial Networks: [Code](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/04_CCGAN_MNIST.ipynb).
 
 <p align="center">
-    <img src="img/100_ccgan.png.png" width="424"\>
+    <img src="../../img/100_ccgan.png.png" width="424"\>
 </p>
 
 ## Dataset
