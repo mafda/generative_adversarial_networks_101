@@ -36,6 +36,10 @@ Context-Conditional Generative Adversarial Networks: [Code](https://github.com/m
     <img src="../../img/100_ccgan.png" width="424"\>
 </p>
 
+### WGAN
+
+Wasserstein Generative Adversarial Networks: [Code](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/05_WGAN_MNIST.ipynb) .
+
 ## Dataset
 
 [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/).

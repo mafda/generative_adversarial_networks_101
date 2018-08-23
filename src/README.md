@@ -12,6 +12,7 @@ Definition and training some models with MNIST and CIFAR-10 datasets.
 * [DCGAN](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/02_DCGAN_MNIST.ipynb)
 * [CGAN](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/03_CGAN_MNIST.ipynb)
 * [CCGAN](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/04_CCGAN_MNIST.ipynb)
+* [WGAN](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/05_WGAN_MNIST.ipynb)
 
 ### cifar10
 

@@ -26,6 +26,7 @@ Definition and training some models with MNIST and CIFAR-10 datasets.
 * [DCGAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/02_DCGAN_MNIST.ipynb)
 * [CGAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/03_CGAN_MNIST.ipynb)
 * [CCGAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/04_CCGAN_MNIST.ipynb)
+* [WGAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/05_WGAN_MNIST.ipynb)
 
 ### CIFAR-10 dataset
 
@@ -66,6 +67,15 @@ A CCGANs implementation using U-Net and convolutional neural network. [Code.](ht
 | Epoch 00 | Epoch 100 | Loss |
 |----------|-----------|------|
 | ![CGAN with MNIST](img/00_ccgan.png) | ![CGAN with MNIST](img/100_ccgan.png)| ![CGAN with MNIST](img/loss_ccgan.png)|
+
+#### Wasserstein Generative Adversarial Networks - CCGANs
+A WGANs implementation using convolutional neural network. [Code.](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/05_WGAN_MNIST.ipynb)
+
+| Epoch 00 | Epoch 100 | Loss |
+|----------|-----------|------|
+| ![WGAN with MNIST](img/00_wgan.png) | ![WGAN with MNIST](img/100_wgan.png)| ![WGAN with MNIST](img/loss_wgan.png)|
+
+
 
 ### CIFAR-10 dataset
 
