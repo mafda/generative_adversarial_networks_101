@@ -38,7 +38,11 @@ Context-Conditional Generative Adversarial Networks: [Code](https://github.com/m
 
 ### WGAN
 
-Wasserstein Generative Adversarial Networks: [Code](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/05_WGAN_MNIST.ipynb) .
+Wasserstein Generative Adversarial Networks: [Code](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/05_WGAN_MNIST.ipynb).
+
+<p align="center">
+    <img src="../../img/100_wgan.png" width="424"\>
+</p>
 
 ## Dataset
 

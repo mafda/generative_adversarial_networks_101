@@ -68,7 +68,7 @@ A CCGANs implementation using U-Net and convolutional neural network. [Code.](ht
 |----------|-----------|------|
 | ![CGAN with MNIST](img/00_ccgan.png) | ![CGAN with MNIST](img/100_ccgan.png)| ![CGAN with MNIST](img/loss_ccgan.png)|
 
-#### Wasserstein Generative Adversarial Networks - CCGANs
+#### Wasserstein Generative Adversarial Networks - WGANs
 A WGANs implementation using convolutional neural network. [Code.](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/05_WGAN_MNIST.ipynb)
 
 | Epoch 00 | Epoch 100 | Loss |
@@ -102,6 +102,7 @@ A CGANs implementation using the transposed convolution and convolution neural n
     * [Unsupervised Representation Learning With Deep Convolutional](https://arxiv.org/pdf/1511.06434.pdf)
     * [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)
     * [Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks](https://arxiv.org/pdf/1611.06430.pdf)
+    * [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
     
 * Datasets:
     * [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
