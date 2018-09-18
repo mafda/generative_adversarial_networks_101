@@ -27,6 +27,7 @@ Definition and training some models with MNIST and CIFAR-10 datasets.
 * [CGAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/03_CGAN_MNIST.ipynb)
 * [CCGAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/04_CCGAN_MNIST.ipynb)
 * [WGAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/05_WGAN_MNIST.ipynb)
+* [LSGAN - MNIST](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/06_LSGAN_MNIST.ipynb).
 
 ### CIFAR-10 dataset
 
@@ -75,6 +76,13 @@ A WGANs implementation using convolutional neural network. [Code.](https://githu
 |----------|-----------|------|
 | ![WGAN with MNIST](img/00_wgan.png) | ![WGAN with MNIST](img/100_wgan.png)| ![WGAN with MNIST](img/loss_wgan.png)|
 
+#### Least Squares General Adversarial Networks - LSGANs
+A LSGANs implementation using using fully connected layers. [Code.](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/05_WGAN_MNIST.ipynb)
+
+| Epoch 00 | Epoch 100 | Loss |
+|----------|-----------|------|
+| ![LSGAN with MNIST](img/00_lsgan_mnist.png) | ![LSGAN with MNIST](img/100_lsgan_mnist.png)| ![LSGAN with MNIST](img/loss_lsgan_mnist.png)|
+
 
 
 ### CIFAR-10 dataset
@@ -103,6 +111,7 @@ A CGANs implementation using the transposed convolution and convolution neural n
     * [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)
     * [Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks](https://arxiv.org/pdf/1611.06430.pdf)
     * [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
+    * [Least Squares General Adversarial Networks](https://arxiv.org/pdf/1611.04076.pdf)
     
 * Datasets:
     * [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)

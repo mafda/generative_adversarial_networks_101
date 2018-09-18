@@ -44,6 +44,14 @@ Wasserstein Generative Adversarial Networks: [Code](https://github.com/mafda/gen
     <img src="../../img/100_wgan.png" width="424"\>
 </p>
 
+### LSGAN
+
+Least Squares General Adversarial Networks: [Code](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/06_LSGAN_MNIST.ipynb).
+
+<p align="center">
+    <img src="../../img/100_lsgan_mnist.png" width="424"\>
+</p>
+
 ## Dataset
 
 [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/).
