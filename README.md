@@ -106,12 +106,12 @@ A CGANs implementation using the transposed convolution and convolution neural n
 ## References
 
 * Related papers:
-    * [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
-    * [Unsupervised Representation Learning With Deep Convolutional](https://arxiv.org/pdf/1511.06434.pdf)
-    * [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)
-    * [Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks](https://arxiv.org/pdf/1611.06430.pdf)
-    * [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
-    * [Least Squares General Adversarial Networks](https://arxiv.org/pdf/1611.04076.pdf)
+    * GAN....[Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+    * DCGAN..[Unsupervised Representation Learning With Deep Convolutional](https://arxiv.org/pdf/1511.06434.pdf)
+    * CGAN...[Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)
+    * CCGAN..[Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks](https://arxiv.org/pdf/1611.06430.pdf)
+    * WGAN...[Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
+    * LSGAN..[Least Squares General Adversarial Networks](https://arxiv.org/pdf/1611.04076.pdf)
     
 * Datasets:
     * [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
