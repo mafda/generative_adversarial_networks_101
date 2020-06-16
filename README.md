@@ -26,8 +26,8 @@ Definition and training some models with MNIST and CIFAR-10 datasets.
 
 * GAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/01_GAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-generative-adversarial-network-with-mnist-part-db8b9c061de0)
 * DCGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/02_DCGAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-deep-convolutional-gans-with-mnist-part-3-8bad9a96ff65)
-* CGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/03_CGAN_MNIST.ipynb)
-* CCGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/04_CCGAN_MNIST.ipynb)
+* CGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/03_CGAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-conditional-gans-with-mnist-part-4-7f816d274d8c)
+* CCGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/04_CCGAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-context-conditional-gans-with-mnist-part-5-a8d56a243377)
 * WGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/05_WGAN_MNIST.ipynb)
 * LSGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/06_LSGAN_MNIST.ipynb)
 
