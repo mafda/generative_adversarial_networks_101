@@ -28,13 +28,13 @@ Definition and training some models with MNIST and CIFAR-10 datasets.
 * DCGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/02_DCGAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-deep-convolutional-gans-with-mnist-part-3-8bad9a96ff65)
 * CGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/03_CGAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-conditional-gans-with-mnist-part-4-7f816d274d8c)
 * CCGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/04_CCGAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-context-conditional-gans-with-mnist-part-5-a8d56a243377)
-* WGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/05_WGAN_MNIST.ipynb)
-* LSGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/06_LSGAN_MNIST.ipynb)
+* WGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/05_WGAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-wasserstein-gan-with-mnist-part-6-7f796a0cea47)
+* LSGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/06_LSGAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-least-squares-gans-with-mnist-part-7-e6cf2fff503c)
 
 ### CIFAR-10 dataset
 
-* DCGAN - CIFAR10 [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/cifar10/02_DCGAN_CIFAR10.ipynb)
-* [CGAN - CIFAR10 [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/cifar10/03_CGAN_CIFAR10.ipynb)
+* DCGAN - CIFAR10 [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/cifar10/02_DCGAN_CIFAR10.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-deep-convolutional-gans-with-cifar10-part-8-be881a77e55b)
+* CGAN - CIFAR10 [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/cifar10/03_CGAN_CIFAR10.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-conditional-gans-with-cifar10-part-9-8e47373e33b8)
 
 
 ## Results
