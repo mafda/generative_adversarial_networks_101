@@ -16,7 +16,7 @@ GANs are composed of two models, represented by artificial neural network:
     <img src="img/gans_arq.png" width="600"\>
 </p>
 
-Read more in this [post](https://medium.com/@mafda_/gans-a-brief-overview-part-1-adc3e2705751).
+Read more in this post [GANs — Generative Adversarial Networks 101](https://medium.com/@mafda_/gans-generative-adversarial-networks-101-8bf8e304585c).
 
 ## Models
 
