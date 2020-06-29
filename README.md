@@ -123,8 +123,11 @@ A CGANs implementation using the transposed convolution and convolution neural n
     * [The CIFAR-10 dataset](https://www.cs.toronto.edu/%7Ekriz/cifar.html)
 
 * Other repositories:
+    * [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
+    * [Adversarial Nets Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)
     * [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
     * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
-    * [Adversarial Nets Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)
-    * [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
+    * [GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks](https://github.com/poloclub/ganlab)
+    * [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications)
+    * [tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
 
