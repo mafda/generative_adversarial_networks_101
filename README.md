@@ -1,4 +1,4 @@
-# Generative Adversarial Networks
+# Generative Adversarial Networks - GANs
 
 This repository presents the **basic notions** that involve the concept of Generative Adversarial Networks.
 
@@ -16,7 +16,43 @@ GANs are composed of two models, represented by artificial neural network:
     <img src="img/gans_arq.png" width="600"\>
 </p>
 
-Read more in this post [GANs — Generative Adversarial Networks 101](https://medium.com/@mafda_/gans-generative-adversarial-networks-101-8bf8e304585c).
+Read more in this post [GANs — Generative Adversarial Networks 101](https://mafda.medium.com/gans-generative-adversarial-networks-101-8bf8e304585c).
+
+## Configure environment
+
+- Create the conda environment
+
+```shell
+(base)$: conda env create -f environment.yml
+```
+
+- Activate the environment
+
+```shell
+(base)$: conda activate gans_101
+```
+
+- Run!
+
+```shell
+(gans_101)$: python -m jupyter notebook
+```
+
+### Note!
+
+:tada: Run with environment!
+
+- [x] GAN - MNIST
+
+:construction: Under Construction
+
+- [ ] DCGAN - MNIST
+- [ ] CGAN - MNIST
+- [ ] CCGAN - MNIST
+- [ ] WGAN - MNIST
+- [ ] LSGAN - MNIST
+- [ ] DCGAN - CIFAR10
+- [ ] CGAN - CIFAR10
 
 ## Models
 
@@ -24,22 +60,22 @@ Definition and training some models with MNIST and CIFAR-10 datasets.
 
 ### MNIST dataset
 
-* GAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/01_GAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-generative-adversarial-network-with-mnist-part-db8b9c061de0)
-* DCGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/02_DCGAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-deep-convolutional-gans-with-mnist-part-3-8bad9a96ff65)
-* CGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/03_CGAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-conditional-gans-with-mnist-part-4-7f816d274d8c)
-* CCGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/04_CCGAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-context-conditional-gans-with-mnist-part-5-a8d56a243377)
-* WGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/05_WGAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-wasserstein-gan-with-mnist-part-6-7f796a0cea47)
-* LSGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/06_LSGAN_MNIST.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-least-squares-gans-with-mnist-part-7-e6cf2fff503c)
+* GAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/01_GAN_MNIST.ipynb) - [Post Medium](https://mafda.medium.com/gans-generative-adversarial-network-with-mnist-part-db8b9c061de0)
+* DCGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/02_DCGAN_MNIST.ipynb) - [Post Medium](https://mafda.medium.com/gans-deep-convolutional-gans-with-mnist-part-3-8bad9a96ff65)
+* CGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/03_CGAN_MNIST.ipynb) - [Post Medium](https://mafda.medium.com/gans-conditional-gans-with-mnist-part-4-7f816d274d8c)
+* CCGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/04_CCGAN_MNIST.ipynb) - [Post Medium](https://mafda.medium.com/gans-context-conditional-gans-with-mnist-part-5-a8d56a243377)
+* WGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/05_WGAN_MNIST.ipynb) - [Post Medium](https://mafda.medium.com/gans-wasserstein-gan-with-mnist-part-6-7f796a0cea47)
+* LSGAN - MNIST [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/mnist/06_LSGAN_MNIST.ipynb) - [Post Medium](https://mafda.medium.com/gans-least-squares-gans-with-mnist-part-7-e6cf2fff503c)
 
 ### CIFAR-10 dataset
 
-* DCGAN - CIFAR10 [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/cifar10/02_DCGAN_CIFAR10.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-deep-convolutional-gans-with-cifar10-part-8-be881a77e55b)
-* CGAN - CIFAR10 [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/cifar10/03_CGAN_CIFAR10.ipynb) - [Post Medium](https://medium.com/@mafda_/gans-conditional-gans-with-cifar10-part-9-8e47373e33b8)
+* DCGAN - CIFAR10 [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/cifar10/02_DCGAN_CIFAR10.ipynb) - [Post Medium](https://mafda.medium.com/gans-deep-convolutional-gans-with-cifar10-part-8-be881a77e55b)
+* CGAN - CIFAR10 [Notebook](https://github.com/mafda/generative_adversarial_networks_101/blob/master/src/cifar10/03_CGAN_CIFAR10.ipynb) - [Post Medium](https://mafda.medium.com/gans-conditional-gans-with-cifar10-part-9-8e47373e33b8)
 
 
 ## Results
 
-Training models with Keras and TensorFlow.
+Training models with Keras - TensorFlow.
 
 ### MNIST dataset
 
@@ -108,7 +144,7 @@ A CGANs implementation using the transposed convolution and convolution neural n
 ## References
 
 * Complete Post Medium
-  * [GANs — Generative Adversarial Networks 101](https://medium.com/@mafda_/gans-generative-adversarial-networks-101-8bf8e304585c)
+  * [GANs — Generative Adversarial Networks 101](https://mafda.medium.com/gans-generative-adversarial-networks-101-8bf8e304585c)
 
 * Related papers:
     * [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
@@ -131,3 +167,6 @@ A CGANs implementation using the transposed convolution and convolution neural n
     * [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications)
     * [tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
 
+---
+
+made with 💙 by [mafda](https://mafda.github.io/)
