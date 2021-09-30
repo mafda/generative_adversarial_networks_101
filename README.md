@@ -40,11 +40,11 @@ Read more in this post [GANs — Generative Adversarial Networks 101](https://ma
 
 ### :warning: Note
 
-:tada: Run with environment!
+:tada: Run with conda environment:
 
 - [x] GAN - MNIST
 
-:construction: Under Construction
+:construction: Under construction:
 
 - [ ] DCGAN - MNIST
 - [ ] CGAN - MNIST
