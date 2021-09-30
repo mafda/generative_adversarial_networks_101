@@ -38,7 +38,7 @@ Read more in this post [GANs — Generative Adversarial Networks 101](https://ma
 (gans_101)$: python -m jupyter notebook
 ```
 
-### Note!
+### :warning: Note
 
 :tada: Run with environment!
 
