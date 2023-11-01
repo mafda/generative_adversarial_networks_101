@@ -1,9 +1,13 @@
 name : gans_101
 channels:
   - conda-forge
+  - nodefaults
 dependencies:
+  - graphviz=7.1.0
   - jupyter=1.0.0
-  - matplotlib=3.4.2
-  - numpy=1.19.1
-  - python=3.8
-  - tensorflow=2.4.1
+  - matplotlib=3.8.0
+  - numpy=1.26.0
+  - pandas=2.1.1
+  - pydot=1.4.2
+  - python=3.10.8
+  - tensorflow-gpu=2.10.0
