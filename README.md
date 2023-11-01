@@ -43,11 +43,11 @@ Read more in this post [GANs — Generative Adversarial Networks 101](https://ma
 :tada: Run with conda environment:
 
 - [x] GAN - MNIST
+- [x] DCGAN - MNIST
 - [x] CGAN - MNIST
 
 :construction: Under construction:
 
-- [ ] DCGAN - MNIST
 - [ ] CCGAN - MNIST
 - [ ] WGAN - MNIST
 - [ ] LSGAN - MNIST
