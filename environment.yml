@@ -10,4 +10,5 @@ dependencies:
   - pandas=2.1.1
   - pydot=1.4.2
   - python=3.10.8
+  - scikit-image-0.22.0
   - tensorflow-gpu=2.10.0

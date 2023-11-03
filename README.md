@@ -45,11 +45,11 @@ Read more in this post [GANs — Generative Adversarial Networks 101](https://ma
 - [x] GAN - MNIST
 - [x] DCGAN - MNIST
 - [x] CGAN - MNIST
+- [x] CCGAN - MNIST
 - [x] LSGAN - MNIST
 
 :construction: Under construction:
 
-- [ ] CCGAN - MNIST
 - [ ] WGAN - MNIST
 - [ ] DCGAN - CIFAR10
 - [ ] CGAN - CIFAR10
