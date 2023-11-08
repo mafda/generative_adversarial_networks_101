@@ -38,22 +38,6 @@ Read more in this post [GANs — Generative Adversarial Networks 101](https://ma
 (gans_101)$: python -m jupyter notebook
 ```
 
-### :warning: Note
-
-:tada: Run with conda environment:
-
-- [x] GAN - MNIST
-- [x] DCGAN - MNIST
-- [x] CGAN - MNIST
-- [x] CCGAN - MNIST
-- [x] WGAN - MNIST
-- [x] LSGAN - MNIST
-- [x] DCGAN - CIFAR10
-
-:construction: Under construction:
-
-- [ ] CGAN - CIFAR10
-
 ## Models
 
 Definition and training some models with MNIST and CIFAR-10 datasets.
